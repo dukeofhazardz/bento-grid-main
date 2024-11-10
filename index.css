@@ -70,14 +70,14 @@ body {
 }
 
 /* Text Styles */
-#box1 h3,
+#box1 h1,
 #box2 h1,
-#box3 h3,
-#box4 h3,
-#box5 h3,
-#box6 h3,
-#box7 h3,
-#box8 h3 {
+#box3 h1,
+#box4 h1,
+#box5 h1,
+#box6 h1,
+#box7 h1,
+#box8 h1 {
   display: block;
   text-align: left;
   font-family: "DMSans";
@@ -89,16 +89,16 @@ body {
   font-style: italic;
 }
 
-#box1 h3,
-#box3 h3,
-#box4 h3,
-#box5 h3 {
+#box1 h1,
+#box3 h1,
+#box4 h1,
+#box5 h1 {
   font-size: 1.6rem;
   font-size: clamp(1rem, 0.451rem + 1.795vw, 1.6rem);
   width: 180px;
 }
 
-#box1 h3 {
+#box1 h1 {
   margin-left: 30px;
 }
 
@@ -128,23 +128,23 @@ body {
   width: 180px;
 }
 
-#box5 h3 {
+#box5 h1 {
   margin-top: 70px;
 }
 
-#box6 h3 {
+#box6 h1 {
   font-size: 1.7rem;
   font-size: clamp(1rem, 0.551rem + 1.795vw, 1.7rem);
   width: 160px;
 }
 
-#box7 h3 {
+#box7 h1 {
   font-family: "DMSans Regular";
   font-size: 3rem;
   width: 160px;
 }
 
-#box8 h3 {
+#box8 h1 {
   font-size: 1.7rem;
   font-size: clamp(1rem, 0.551rem + 1.795vw, 1.7rem);
   color: #fff;
@@ -253,17 +253,17 @@ body {
       "box6";
   }
 
-  #box4 h3,
-  #box3 h3,
-  #box5 h3,
-  #box1 h3 {
+  #box4 h1,
+  #box3 h1,
+  #box5 h1,
+  #box1 h1 {
     width: 350px;
   }
 
   #box3 img,
   #box4 img,
   #box5 img,
-  #box6 h3,
+  #box6 h1,
   #box6 img {
     width: 300px;
   }
@@ -286,8 +286,8 @@ body {
   }
 
   #box3 p,
-  #box8 h3,
-  #box3 h3 {
+  #box8 h1,
+  #box3 h1 {
     text-align: center;
   }
 
