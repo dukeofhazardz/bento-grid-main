@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-url)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/bento-grid-main-project-using-css-grid-PA_l0jM4G5)
+- Live Site URL: [Live Site](https://bento-grid-main-lovat.vercel.app)
 
 ## My Process
 
